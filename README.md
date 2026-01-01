@@ -1,8 +1,8 @@
-## Hi there,I Am Tamanna👋
+## Hi , I'm Tamanna👋
 
 
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/1*5OSbGu-5Z98IT8r76UJZbw.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxmbWM0aHpxMXAwM29vempoeXl4bHF5ajQyZm16YW9oMXpicXFoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 
 Here are some ideas to get you started:
