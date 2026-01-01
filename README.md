@@ -2,6 +2,8 @@
 
 
 **buyown1/buyown1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/1*5OSbGu-5Z98IT8r76UJZbw.gif">
+
 
 Here are some ideas to get you started:
 
