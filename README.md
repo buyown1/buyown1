@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with  Web Development
 - 💬 Ask me about Web Development
 - 📫 How to reach me: gmail
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I Love Code
 
 About Me:
